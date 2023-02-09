@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="300" width="100%">
 </div>
 
-# Hi I'm MMD:wave:
+# Hi I'm MRG:wave:
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,html,js,css,bootstrap&theme=dark)](https://skillicons.dev)
