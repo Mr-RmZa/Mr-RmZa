@@ -1,7 +1,7 @@
 # Hi I'm MRG:wave:
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,php,laravel,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,php,laravel,mysql,mongodb,docker,github,instagram,jquery,postman,powershell,stackoverflow,symfony,wordpress,&theme=dark)](https://skillicons.dev)
 
 ---
 
