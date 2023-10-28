@@ -5,7 +5,7 @@
 # Hi I'm MRG:wave:
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,php,laravel,mysql,mongodb,docker,github,instagram,jquery,postman,powershell,stackoverflow,symfony,wordpress,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,php,laravel,mysql,mongodb,docker,git,gitlab,github,instagram,jquery,postman,powershell,stackoverflow,symfony,wordpress,bash,cloudflare,codepen,express,grafana,idea,kafka,linux,linkedin,nginx,prisma,pug,rabbitmq,redis,regex,sqlite,svg,twitter,ts,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
