@@ -1,4 +1,4 @@
-# Hi I'm MRG:
+# Hi I'm MRG :
 <div align="center">
   <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="300" width="100%">
 </div>
